@@ -19,3 +19,4 @@ A Machine Learning-based Book Recommendation System that suggests books to users
 ![Screenshot 2025-04-07 173228](https://github.com/user-attachments/assets/784dc077-6e8d-46f2-99d5-ff9cf589499e)
 ![Screenshot 2025-04-07 173244](https://github.com/user-attachments/assets/8eec27ad-fe64-4a40-b28f-b5f4fbb3359f)
 ![Screenshot 2025-04-07 173255](https://github.com/user-attachments/assets/e443cfde-aace-47db-bfd4-eda72559f03d)
+![Screenshot 2025-04-07 173319](https://github.com/user-attachments/assets/5a968aa1-b5f0-4797-af12-967f8accef0c)
